@@ -1,0 +1,9 @@
+.board-box {
+    margin:0px auto;
+    border: solid rgb(197, 187, 187);
+    box-shadow: 0 10px 20px #b5b166;
+    border-radius: 20px;
+    background-color: rgb(120 108 82 / 50%);
+    margin-top: 3rem;
+    padding: 1rem;
+}
